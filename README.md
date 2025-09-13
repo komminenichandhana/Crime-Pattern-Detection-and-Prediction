@@ -40,8 +40,8 @@ It helps identify **crime hotspots**, classify crime types, and generate insight
 - **Libraries**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Plotly, XGBoost, mlxtend  
 - **Tools**: Jupyter Notebook, Streamlit (prototype)
   
-## 🧾 CitationS 
-Dhanya Ratna Madhuri, Kommineni Chandhana, Dr. Sheela Jayachandhran
+## 🧾 Citation
+S Dhanya Ratna Madhuri, Kommineni Chandhana, Dr. Sheela Jayachandhran
 Crime Pattern Analysis and Prediction Using Machine Learning and Data Mining Techniques
 VIT-AP University, 2025
 ## 🚀 How to Run  
@@ -50,3 +50,4 @@ Clone this repo and install dependencies:
 git clone https://github.com/your-username/Crime-Pattern-Analysis-and-Prediction.git
 cd Crime-Pattern-Analysis-and-Prediction
 pip install -r requirements.txt
+
